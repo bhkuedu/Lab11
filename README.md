@@ -4,5 +4,5 @@
 * Task 4 is this very repository!
 
 ## Docker images
-Task 2: https://hub.docker.com/repository/docker/bhkuedu/webapp <br></br>
-Task 3: https://hub.docker.com/repository/docker/bhkuedu/cprogram
+Task 2: https://hub.docker.com/r/bhkuedu/webapp <br></br>
+Task 3: https://hub.docker.com/r/bhkuedu/cprogram
